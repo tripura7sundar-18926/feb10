@@ -1,0 +1,11 @@
+l=[]
+n=int(input('how many elements you want to enter'))
+for i in range(n)P
+  x=int(input())
+  l.append(x)
+print(l)
+res[]
+for i in l:
+  if i not in res:
+   res.append(i)
+print(res)

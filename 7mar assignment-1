@@ -1,0 +1,6 @@
+l=input().split()
+s=["aditya degree"]
+for i in l:
+    s.append(l)
+res=sorted(s)
+print(res)

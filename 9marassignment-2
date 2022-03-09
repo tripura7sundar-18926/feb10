@@ -1,0 +1,3 @@
+str="Aditya educational institutes,aditya group."
+x=str.find("Aditya")
+print(x)

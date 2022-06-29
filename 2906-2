@@ -1,0 +1,8 @@
+my_dictionary={}
+my_dictionary['name']="Rajesh"
+my_dictionary['result']="pass"
+print(my_dictionary)
+my_dict={}
+my_dict['name']="Ramesh"
+my_dict['result']="fail"
+print(my_dict)

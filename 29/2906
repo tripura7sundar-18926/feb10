@@ -1,0 +1,10 @@
+Employee={"empname":"Alex","empdesign":"manager","empsal":25000,"empphno":7729145778}
+print(type(Employee))
+print("[printing employee details")
+print(Employee)
+print("enter the details of the employee");
+Employee["empname"]=input("empname");
+Employee["empdesign"]=input("empdesign");
+Employee["empsal"]=int(input("empsal"));
+Employee["empphno"]=int(input("empphno"));
+print(Employee)
